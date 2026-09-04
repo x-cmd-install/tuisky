@@ -7,7 +7,7 @@ about:
   head: 5bbb8a4
   archived: false
   latestVersion: v0.2.2
-  collectedAt: 2026-09-04T19:52:44Z
+  collectedAt: 2026-09-04T20:47:28Z
 timeline:
   created: 2024-06-30
   lastCommit: 2025-12-28
@@ -81,5 +81,33 @@ total:
   openIssue: 9
   commit: 101
 ---
+path: /home/runner/.x-repo/github.com/sugyan/tuisky
+collectedAt: 2026-09-04T20:47:29Z
+loc:
+  Rust:
+    code: 4800
+    comments: 55
+    blanks: 181
+    files: 34
+  Json:
+    code: 83
+    comments: 0
+    blanks: 0
+    files: 1
+  Toml:
+    code: 53
+    comments: 0
+    blanks: 7
+    files: 2
+  Markdown:
+    code: 0
+    comments: 139
+    blanks: 71
+    files: 2
+total:
+  code: 4943
+  comments: 244
+  blanks: 293
+  files: 39
 ---
 
