@@ -43,12 +43,12 @@ Total: **4,936** lines of code across **39** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-28 | 1 | 1 | 2 | 1 | 1 | 2 |
-| last720d | 2024-10-03 | 7 | 16 | 2 | 8 | 9 | 27 |
+| 30d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-29 | 1 | 1 | 2 | 1 | 1 | 2 |
+| last720d | 2024-10-04 | 7 | 16 | 2 | 8 | 9 | 27 |
 
 ## Improve this data
 
@@ -59,4 +59,4 @@ Install metadata for tuisky lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T06:44:09Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:55:22Z._
