@@ -17,13 +17,6 @@
   origversion: null
   status: newest
   summary: TUI client for bluesky
-- repo: homebrew
-  srcname: tuisky
-  visiblename: tuisky
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: TUI client for bluesky
 - repo: nix_stable_24_11
   srcname: tuisky
   visiblename: tuisky
@@ -91,3 +84,10 @@
     - ports@openbsd.org
   categories:
     - net
+- repo: homebrew
+  srcname: tuisky
+  visiblename: tuisky
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: TUI client for bluesky
